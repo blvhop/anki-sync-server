@@ -1,3 +1,6 @@
+src/nohup.out
+*.tmp
+
 *.pyc
 *.db
 
